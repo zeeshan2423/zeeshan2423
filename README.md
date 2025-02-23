@@ -31,14 +31,15 @@
 
 ![Static Badge](https://img.shields.io/badge/githubactions-repository?logo=githubactions&label=ci%2Fcd&labelColor=rgb(30%2C30%2C30)&color=%232088FF)
 ![Static Badge](https://img.shields.io/badge/jenkins-repository?logo=jenkins&label=ci%2Fcd&labelColor=rgb(255%2C255%2C255)&color=%23D24939)
+![Static Badge](https://img.shields.io/badge/docker-registry?logo=docker&label=registry&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/kubernetes-repository?logo=kubernetes&label=orchestration&labelColor=rgb(255%2C255%2C255)&color=%23326CE5)
 ![Static Badge](https://img.shields.io/badge/kong-repository?logo=kong&label=api%20gateway&labelColor=rgb(30%2C30%2C30)&color=%23003459)
 ![Static Badge](https://img.shields.io/badge/ngrok-repository?logo=ngrok&label=api%20gateway&labelColor=rgb(30%2C30%2C30)&color=%23EFEFEF)
 ![Static Badge](https://img.shields.io/badge/nginx-repository?logo=nginx&label=proxy&labelColor=rgb(30%2C30%2C30)&color=%23009639)
 ![Static Badge](https://img.shields.io/badge/ansible-repository?logo=ansible&label=automation&labelColor=rgb(30%2C30%2C30)&color=%23EE0000)
+![Static Badge](https://img.shields.io/badge/portainer-container?logo=portainer&label=container&color=%2313BEF9)
 ![Static Badge](https://img.shields.io/badge/harbor-repository?logo=harbor&label=registry&labelColor=rgb(30%2C30%2C30)&color=%2360B932)
 ![Static Badge](https://img.shields.io/badge/sentry-repository?logo=sentry&label=observability&labelColor=rgb(30%2C30%2C30)&color=%23EFEFEF)
-
 
 ![Static Badge](https://img.shields.io/badge/firebase-repository?logo=firebase&label=cloud&labelColor=rgb(30%2C30%2C30)&color=%23DD2C00)
 ![Static Badge](https://img.shields.io/badge/googlecloud-repository?logo=googlecloud&label=cloud&labelColor=rgb(30%2C30%2C30)&color=%234285F4)
