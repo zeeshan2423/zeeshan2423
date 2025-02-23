@@ -78,7 +78,7 @@ void main() {
 
 **Frontend & Backend:**
 - Next.js
-- Node.js
+- Node.js - [Explore Web Development with Node.js by LinkedIn](https://www.linkedin.com/learning/certificates/a6e806ea0330cc4183ba1437bbdb4dac320ab44dfac0e4901566632384fe32a9)
 - Express
 - MERN Stack
 
