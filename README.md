@@ -8,6 +8,42 @@
 ![Static Badge](https://img.shields.io/badge/javascript-language?logo=javascript&logoColor=rgb(255%2C255%2C255)&label=code&labelColor=rgb(0%2C0%2C0)&color=rgb(247%2C223%2C30))
 ![Static Badge](https://img.shields.io/badge/typescript-language?logo=typescript&logoColor=rgb(255%2C255%2C255)&label=code&labelColor=rgb(0%2C0%2C0)&color=rgb(0%2C122%2C204))
 ![Static Badge](https://img.shields.io/badge/kotlin-language?logo=kotlin&logoColor=rgb(255%2C255%2C255)&label=code&labelColor=rgb(199%2C17%2C225)&color=rgb(127%2C82%2C255))
+
+![Static Badge](https://img.shields.io/badge/flutter-framework?logo=flutter&label=framework&labelColor=rgb(71%2C197%2C251)&color=rgb(0%2C86%2C158))
+![Static Badge](https://img.shields.io/badge/express-framework?logo=express&label=framework&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
+![Static Badge](https://img.shields.io/badge/next.js-framework?logo=nextdotjs&label=framework&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
+![Static Badge](https://img.shields.io/badge/tailwindcss-framework?logo=tailwindcss&label=framework&labelColor=rgb(255%2C255%2C255)&color=rgb(56%2C189%2C248))
+![Static Badge](https://img.shields.io/badge/angular-framework?logo=angular&label=framework&labelColor=rgb(181%2C46%2C49)&color=rgb(255%2C255%2C255))
+![Static Badge](https://img.shields.io/badge/vue.js-framework?logo=vuedotjs&label=framework&labelColor=rgb(53%2C73%2C94)&color=rgb(65%2C184%2C131))
+
+![Static Badge](https://img.shields.io/badge/react-library?logo=react&label=library&labelColor=rgb(53%2C73%2C94)&color=rgb(97%2C218%2C251))
+
+![Static Badge](https://img.shields.io/badge/git-version_control?logo=git&label=version%20control&labelColor=rgb(255%2C255%2C255)&color=rgb(243%2C79%2C41))
+![Static Badge](https://img.shields.io/badge/github-repository?logo=github&label=repository&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
+![Static Badge](https://img.shields.io/badge/gitlab-repository?logo=gitlab&label=repository&labelColor=rgb(255%2C255%2C255)&color=rgb(226%2C67%2C41))
+![Static Badge](https://img.shields.io/badge/bitbucket-repository?logo=bitbucket&label=repository&labelColor=rgb(0%2C82%2C204)&color=rgb(38%2C132%2C255))
+
+![Static Badge](https://img.shields.io/badge/mongodb-repository?logo=mongodb&label=database&labelColor=rgb(30%2C30%2C30)&color=%2347A248)
+![Static Badge](https://img.shields.io/badge/mongoose-repository?logo=mongoose&label=odm&labelColor=rgb(30%2C30%2C30)&color=%23880000)
+![Static Badge](https://img.shields.io/badge/mysql-repository?logo=mysql&label=rdms&labelColor=rgb(255%2C255%2C255)&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/postgresql-repository?logo=postgresql&label=rdms&labelColor=rgb(255%2C255%2C255)&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/supabase-repository?logo=supabase&label=database%20infrastructure&labelColor=rgb(255%2C255%2C255)&color=%233FCF8E)
+
+![Static Badge](https://img.shields.io/badge/githubactions-repository?logo=githubactions&label=ci%2Fcd&labelColor=rgb(30%2C30%2C30)&color=%232088FF)
+![Static Badge](https://img.shields.io/badge/jenkins-repository?logo=jenkins&label=ci%2Fcd&labelColor=rgb(255%2C255%2C255)&color=%23D24939)
+![Static Badge](https://img.shields.io/badge/kubernetes-repository?logo=kubernetes&label=orchestration&labelColor=rgb(255%2C255%2C255)&color=%23326CE5)
+![Static Badge](https://img.shields.io/badge/kong-repository?logo=kong&label=api%20gateway&labelColor=rgb(30%2C30%2C30)&color=%23003459)
+![Static Badge](https://img.shields.io/badge/ngrok-repository?logo=ngrok&label=api%20gateway&labelColor=rgb(30%2C30%2C30)&color=%23EFEFEF)
+![Static Badge](https://img.shields.io/badge/nginx-repository?logo=nginx&label=proxy&labelColor=rgb(30%2C30%2C30)&color=%23009639)
+![Static Badge](https://img.shields.io/badge/ansible-repository?logo=ansible&label=automation&labelColor=rgb(30%2C30%2C30)&color=%23EE0000)
+![Static Badge](https://img.shields.io/badge/harbor-repository?logo=harbor&label=registry&labelColor=rgb(30%2C30%2C30)&color=%2360B932)
+![Static Badge](https://img.shields.io/badge/sentry-repository?logo=sentry&label=observability&labelColor=rgb(30%2C30%2C30)&color=%23EFEFEF)
+
+
+![Static Badge](https://img.shields.io/badge/firebase-repository?logo=firebase&label=cloud&labelColor=rgb(30%2C30%2C30)&color=%23DD2C00)
+![Static Badge](https://img.shields.io/badge/googlecloud-repository?logo=googlecloud&label=cloud&labelColor=rgb(30%2C30%2C30)&color=%234285F4)
+![Static Badge](https://img.shields.io/badge/node.js-repository?logo=nodedotjs&label=server&labelColor=rgb(30%2C30%2C30)&color=rgb(131%2C205%2C41))
+
 ---
 
 ```dart
